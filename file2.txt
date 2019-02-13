@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Hey!!!
 How are you?
 Me: I'm good
+=======
+Hey How are you?
+>>>>>>> Stashed changes
