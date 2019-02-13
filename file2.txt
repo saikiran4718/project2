@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello World!!
-=======
-Hey How are you?
->>>>>>> folder2
